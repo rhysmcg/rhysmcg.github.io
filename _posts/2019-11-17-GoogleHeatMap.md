@@ -13,4 +13,6 @@ I think the most interesting part is seeing the really strong splotch from Tachi
 
 Although it’s a little intrusive for privacy, I think visualising trips this way is fascinating! You may download KML files of your own timeline and try to format it to the Google Maps API yourself!
 
+<iframe src="https://rhysmcg.github.io/heatmaphistory/" width="100%" height="480"></iframe>
+
 Download: <a href="https://github.com/rhysmcg/heatmaphistory">https://github.com/rhysmcg/heatmaphistory</a>

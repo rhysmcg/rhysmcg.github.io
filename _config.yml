@@ -1,7 +1,7 @@
 # Site
 name: "Rhys McGoldrick"
 title: "Rhys McGoldrick"
-description: "Language education, travel and 3D work are my top interests. Stick around if you'd like to see such content"
+description: "I like Languages, Maps, 3d Modelling, Education and Travel! Stick around if you'd like to see stuff about that!"
 logo: 'assets/images/Rlogo.png'
 favicon: 'assets/images/Rlogo.png'
 baseurl: ''
@@ -19,7 +19,7 @@ authors:
     gravatar: a0a244c6afc530e3766b8a1399f70c68
     email: rhysmcgoldrick@gmail.com
     web: https://github.com/rhysmcg
-    description: "Language education, travel and 3D work are my top interests. Stick around if you'd like to see such content."
+    description: "I like Languages, Maps, 3d Modelling, Education and Travel! Stick around if you'd like to see stuff about that!"
 
 # Plugins
 plugins:
